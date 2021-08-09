@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  kindable: one
+  kindable_type: Kindable
+
+two:
+  kindable: two
+  kindable_type: Kindable
